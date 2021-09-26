@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap');
+* {
+    box-sizing: border-box;
+}
+
+body {
+    /*background-image: url("https://i.ibb.co/wY3JhCb/bg2.jpg");*/
+    background-color: #00203FFF;
+    font-family: "Oxygen";
+    align-items: center;
+}
+
+h1 {
+    position: relative; top: 300px;
+    color: #ADEFD1FF;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 0px;
+    padding: 0;
+}
+
+h3 {
+    position: relative; top: 300px;
+    color: #ADEFD1FF;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 0px;
+    padding: 0;
+}
+
+a {
+    color: #ADEFD1FF;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+a:hover {
+    color: rgb(207, 238, 224);
+}
